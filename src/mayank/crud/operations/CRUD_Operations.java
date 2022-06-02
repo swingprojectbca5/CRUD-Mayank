@@ -8,7 +8,6 @@ public class CRUD_Operations extends javax.swing.JFrame {
     public CRUD_Operations() {
         initComponents();
         txtstSrno.setVisible(false);
-        //I have create master new branch in github...
     }
 
     @SuppressWarnings("unchecked")
